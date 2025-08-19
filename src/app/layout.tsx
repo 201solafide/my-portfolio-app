@@ -34,7 +34,7 @@
 // }
 
 "use client";
-import type { Metadata } from "next";
+// import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
 // import { Inter, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
