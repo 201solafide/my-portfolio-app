@@ -31,7 +31,7 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
           className="text-5xl md:text-6xl font-extrabold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600"
         >
-          Hi, I'm Solafide Zamili 👋
+          <p>Hi I&apos;m Solafide Zamili 👋</p>
         </motion.h1>
 
         <motion.p
