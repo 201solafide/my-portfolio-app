@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+/* Warna dasar */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+/* Mapping ke token Tailwind v4 */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  /* Sinkron dengan layout.tsx (Inter & JetBrains Mono) */
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+/* Dark mode preferensi sistem; nanti bisa kita buat toggle manual */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* Reset kecil + kualitas rendering */
+html, body { height: 100%; }
+
+.container {
+  @apply max-w-6xl mx-auto px-4;
+}
