@@ -12,8 +12,8 @@ export default function About() {
       >
         <h2 className="text-3xl font-bold mb-4">About Me</h2>
         <p className="text-muted-foreground max-w-2xl">
-          I'm a final-year computer science student who loves exploring web development, IoT, and machine learning.
-          I enjoy building projects that are not only functional but also polished with modern design principles.
+            I&apos;m a final-year computer science student who loves exploring web development, IoT, and machine learning.
+            I enjoy building projects that are not only functional but also polished with modern design principles.
         </p>
       </motion.div>
     </Section>
