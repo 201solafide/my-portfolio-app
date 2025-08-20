@@ -8,7 +8,7 @@ const projects = [
     title: "Realtime System Monitor",
     description:
       "A web app that visualizes CPU, Memory, and Disk usage using Flask + Firebase Realtime Database.",
-    link: "https://github.com/yourusername/realtime-monitor",
+    link: "https://github.com/201solafide/penjemur-kopi.git",
   },
   {
     title: "Spatial Data Analysis",
