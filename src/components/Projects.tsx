@@ -5,16 +5,16 @@ import Section from "./Section";
 
 const projects = [
   {
-    title: "Realtime System Monitor",
+    title: "Prototype of automatic coffee drying system using Mamdani Fuzzy Logic",
     description:
-      "A web app that visualizes CPU, Memory, and Disk usage using Flask + Firebase Realtime Database.",
+      "A prototype implementing an automated coffee drying system using Mamdani Fuzzy Logic.This system intelligently automates canopy closure and heater activation, ensuring optimal coffee bean drying regardless of environmental conditions.",      
     link: "https://github.com/201solafide/penjemur-kopi.git",
   },
   {
-    title: "Spatial Data Analysis",
+    title: "Digital Image Classification",
     description:
-      "Worked with PostGIS and PGAdmin to analyze irrigation and road network spatial data.",
-    link: "https://github.com/yourusername/spatial-analysis",
+      "Classifying motorcycle types in the parking area of the Sumatra Institute of Technology (ITERA) using the Convolutional Neural Network (CNN) method with the MobileNetV2 architecture.",
+    link: "https://github.com/201solafide/klasifikasi-citra-digital.git",
   },
   {
     title: "Survival Puzzle Game",
@@ -22,6 +22,12 @@ const projects = [
       "A Godot-based game featuring player combat, puzzle solving, and exploration.",
     link: "https://github.com/yourusername/survival-game",
   },
+  {
+    title: "",
+    description:
+      "A web app that visualizes CPU, Memory, and Disk usage using Flask + Firebase Realtime Database.",
+    link: "https://github/com/201solafide/"
+  }
 ];
 
 export default function Projects() {
