@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import Section from "./Section";
+import { desc } from "framer-motion/client";
 
 const projects = [
   {
@@ -23,10 +24,16 @@ const projects = [
     link: "https://github.com/201solafide/embung-itera.git",
   },
   {
-    title: "",
+    title: "GameGratis mobile app",
     description:
-      "A web app that visualizes CPU, Memory, and Disk usage using Flask + Firebase Realtime Database.",
-    link: "https://github/com/201solafide/"
+      "The application is designed to provide users with a platform to discover and download free games. It features a user-friendly interface, game categorization, and search functionality to enhance the gaming experience.",
+    link: "https://github.com/201solafide/TubesPAM.git"
+  }
+  {
+    title: ".......",
+    description:
+      "..........",
+    link: "https://github.com/201solafide"
   }
 ];
 
