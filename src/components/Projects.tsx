@@ -28,7 +28,7 @@ const projects = [
     description:
       "The application is designed to provide users with a platform to discover and download free games. It features a user-friendly interface, game categorization, and search functionality to enhance the gaming experience.",
     link: "https://github.com/201solafide/TubesPAM.git"
-  }
+  },
   {
     title: ".......",
     description:
