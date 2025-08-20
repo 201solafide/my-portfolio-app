@@ -17,10 +17,10 @@ const projects = [
     link: "https://github.com/201solafide/klasifikasi-citra-digital.git",
   },
   {
-    title: "Survival Puzzle Game",
+    title: "System Information Geographic Embung of Institute of Technology Sumatra (ITERA)",
     description:
-      "A Godot-based game featuring player combat, puzzle solving, and exploration.",
-    link: "https://github.com/yourusername/survival-game",
+      "A web-based Geographic Information System (GIS) for managing and visualizing data related to the Embung of the Sumatra Institute of Technology (ITERA). This system provides an interactive map interface for users to explore various aspects of the embung's data.",
+    link: "https://github.com/201solafide/embung-itera.git",
   },
   {
     title: "",
