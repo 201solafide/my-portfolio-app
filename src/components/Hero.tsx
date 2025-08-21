@@ -43,7 +43,7 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
           className="text-lg text-muted-foreground mb-6"
         >
-          A web developer passionate about building interactive & modern web apps
+          Informatics Engineering Student | IT Support | Network & Software Enthusiast.
         </motion.p>
 
         <motion.div
