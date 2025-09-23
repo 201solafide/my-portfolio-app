@@ -54,6 +54,11 @@ export default function Hero() {
           transition={{ duration: 0.8 }}
           className="flex gap-4 justify-center"
         >
+          <a href="/files/SolafideZamili_TOEFL.pdf">
+            <button className="px-6 py-3 rounded-full border border-foreground/20 text-foreground hover:bg-foreground/10 transition">
+              Download TOEFL Certificate
+            </button>
+          </a>
           <a
             href="#projects"
             className="px-6 py-3 rounded-full bg-blue-600 text-white font-medium shadow-md hover:bg-blue-700 transition"
@@ -66,6 +71,7 @@ export default function Hero() {
           >
             Contact Me
           </a>
+
         </motion.div>
       </motion.div>
     </section>
