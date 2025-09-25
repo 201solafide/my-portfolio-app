@@ -60,16 +60,17 @@ export default function Hero() {
             </button>
           </a>
           <a
+            href="/files/CV.pdf"
+          >
+            <button className="px-6 py-3 rounded-full border border-foreground/20 text-foreground hover:bg-foreground/10 transition">
+              Curicullum Vitae
+            </button>
+          </a>
+          <a
             href="#projects"
             className="px-6 py-3 rounded-full bg-blue-600 text-white font-medium shadow-md hover:bg-blue-700 transition"
           >
             View Projects
-          </a>
-          <a
-            href="#contact"
-            className="px-6 py-3 rounded-full border border-foreground/20 text-foreground hover:bg-foreground/10 transition"
-          >
-            Contact Me
           </a>
 
         </motion.div>
