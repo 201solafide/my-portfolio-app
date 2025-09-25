@@ -63,7 +63,7 @@ export default function Hero() {
             href="/files/CV.pdf"
           >
             <button className="px-6 py-3 rounded-full border border-foreground/20 text-foreground hover:bg-foreground/10 transition">
-              Curicullum Vitae
+              Curriculum vitae
             </button>
           </a>
           <a
