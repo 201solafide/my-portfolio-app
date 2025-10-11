@@ -60,7 +60,7 @@ export default function Hero() {
             </button>
           </a>
           <a
-            href="/files/CV.pdf"
+            href="/files/CV - Solafide Zamili.pdf"
           >
             <button className="px-6 py-3 rounded-full border border-foreground/20 text-foreground hover:bg-foreground/10 transition">
               Curriculum vitae
@@ -78,3 +78,4 @@ export default function Hero() {
     </section>
   );
 }
+
